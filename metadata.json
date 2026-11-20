@@ -1,0 +1,6 @@
+{
+  "name": "Dijital Çözümler ve nexus AI Fizibilite",
+  "description": "VanGuard Studio Digital; B2B işletmeler, ihracatçılar ve kurumsal firmalar için sabit bütçeli web çözümleri, özel yazılım mimarisi ve bağımsız nexus AI fizibilite analizleri sunar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

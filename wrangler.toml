@@ -1,0 +1,6 @@
+name = "vanguard-studio"
+compatibility_date = "2026-01-01"
+pages_build_output_dir = "dist"
+
+# Zero-DB: Hiçbir veritabanı bağlantısı içermez (Stateless)
+# Cloudflare Pages Dashboard -> Settings -> Environment Variables: RESEND_API_KEY
