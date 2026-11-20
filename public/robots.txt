@@ -1,0 +1,48 @@
+# VanGuard Studio Digital — Arama Motoru & AI Cevap Motoru Tarama Kuralları (robots.txt)
+# Kurumsal Web, Özel Mimari & nexus AI Fizibilite (SEO / AEO / GEO Uyumlu)
+
+User-agent: *
+Allow: /
+Allow: /tr/
+Allow: /blog/
+Allow: /llms.txt
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+
+# AI Answer & Generative Search Engines (GEO & AEO Optimizasyonu)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# Statik PDF Numuneleri ve Dökümanlar
+Allow: /sample-proposal.pdf
+Allow: /sample-technical-spec.pdf
+Allow: /sample-menu.pdf
+
+# Site Haritası Bildirimi
+Sitemap: https://vanguardstudio.digital/sitemap.xml
+

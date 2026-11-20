@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bearingBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <pattern id="cadGrid2" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#334155" stroke-width="0.8" />
+    </pattern>
+  </defs>
+  <rect width="600" height="400" fill="url(#bearingBg)" />
+  <rect width="600" height="400" fill="url(#cadGrid2)" />
+  <!-- Flanged Bearing Housing -->
+  <rect x="190" y="70" width="220" height="220" rx="36" fill="#475569" stroke="#94a3b8" stroke-width="3" />
+  <!-- 4 Bolt Holes -->
+  <circle cx="222" cy="102" r="12" fill="#0f172a" stroke="#cbd5e1" stroke-width="2" />
+  <circle cx="378" cy="102" r="12" fill="#0f172a" stroke="#cbd5e1" stroke-width="2" />
+  <circle cx="222" cy="258" r="12" fill="#0f172a" stroke="#cbd5e1" stroke-width="2" />
+  <circle cx="378" cy="258" r="12" fill="#0f172a" stroke="#cbd5e1" stroke-width="2" />
+  <!-- Bearing Rings -->
+  <circle cx="300" cy="180" r="76" fill="#1e293b" stroke="#f59e0b" stroke-width="4" />
+  <circle cx="300" cy="180" r="52" fill="#334155" stroke="#e2e8f0" stroke-width="3" />
+  <circle cx="300" cy="180" r="28" fill="#0f172a" stroke="#38bdf8" stroke-width="3" />
+  <!-- Technical Callouts -->
+  <text x="300" y="340" text-anchor="middle" fill="#f8fafc" font-family="monospace" font-size="15" font-weight="bold">GGG-40 SFERO DÖKÜM FLANŞLI RULMAN YATAĞI</text>
+  <text x="300" y="365" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="12">CAD REF: VG-PRC-9102 · AĞIR HİZMET TİPİ</text>
+</svg>

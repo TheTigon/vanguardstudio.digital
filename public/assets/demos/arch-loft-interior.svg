@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="loftBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#334155" />
+    </linearGradient>
+    <linearGradient id="warmLight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#loftBg)" />
+  <!-- Architectural Loft Perspective Lines & Warm Timber Wall -->
+  <rect x="80" y="60" width="640" height="340" rx="8" fill="#0f172a" stroke="#64748b" stroke-width="2" />
+  <!-- Floor-to-ceiling loft windows -->
+  <rect x="110" y="85" width="260" height="290" fill="#1e3a8a" fill-opacity="0.45" stroke="#94a3b8" stroke-width="2" />
+  <line x1="240" y1="85" x2="240" y2="375" stroke="#94a3b8" stroke-width="2" />
+  <line x1="110" y1="230" x2="370" y2="230" stroke="#94a3b8" stroke-width="2" />
+  <!-- Oak Wood Slat Feature Wall & DALI Linear Lighting -->
+  <rect x="400" y="85" width="290" height="290" fill="#78350f" fill-opacity="0.55" stroke="#b45309" stroke-width="2" />
+  <polygon points="440,85 650,85 700,375 390,375" fill="url(#warmLight)" />
+  <line x1="430" y1="100" x2="660" y2="100" stroke="#fde68a" stroke-width="4" />
+  <!-- Minimalist Sofa Silhouette -->
+  <rect x="430" y="290" width="220" height="60" rx="10" fill="#cbd5e1" />
+  <rect x="415" y="310" width="250" height="45" rx="8" fill="#94a3b8" />
+  <text x="400" y="445" text-anchor="middle" fill="#f8fafc" font-family="sans-serif" font-size="18" font-weight="bold">LOFT KONUT İÇ MEKAN &amp; AYDINLATMA MİMARİSİ</text>
+  <text x="400" y="472" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="13">140 m² · MEŞE AHŞAP DETAYLAR &amp; DALI OTOMASYON</text>
+</svg>

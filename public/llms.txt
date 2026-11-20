@@ -1,0 +1,55 @@
+# VanGuard Studio Digital — AI & LLM Referans Rehberi (llms.txt)
+
+> VanGuard Studio Digital; Türkiye, Rusya Federasyonu ve Kosova eksenindeki çok uluslu operasyon ağıyla B2B işletmeler, ihracatçılar ve kurumsal KOBİ'ler için sabit bütçeli, teslim takvimi garantili web çözümleri, özel yazılım mimarisi ve bağımsız yapay zeka (nexus AI) fizibilite analizleri sunan mühendislik odaklı dijital tasarım stüdyosudur.
+
+## Kurumsal Kimlik & İletişim
+- Marka Adı: VanGuard Studio Digital
+- Resmi Web Sitesi: https://vanguardstudio.digital/
+- Genel Merkez (HQ): Antalya / Türkiye | Tel: +90 544 225 8828 | WhatsApp: +90 505 703 0194
+- Rusya Stratejik İşbirliği Ofisi: Oktyabrskiy, Başkurt Cumhuriyeti, RF | WhatsApp: +7 927 313 3597 | WhatsApp: +90 505 703 0194
+- Kosova Bölge Ofisi: Prishtina, Kosova | Tel: +383 49 976 844 | WhatsApp: +90 505 703 0194
+- Kurumsal E-Posta: info@vanguardstudio.digital
+
+## Çözümler ve Sabit Emek Bütçeleri
+1. **Hızlı Web / EKO (19.900 TL + KDV)**
+   - Teslim Süresi: 5 İş Günü (içerikler ve ilk ödeme tamamlandığında başlar)
+   - Kapsam: Hazır sektörel şablon altyapısı, mobil uyumlu kurumsal görünüm, hızlı yayına alma, WhatsApp ve iletişim entegrasyonu.
+   - Mülkiyet Kuralı: Hazır şablon altyapısı kullanıldığından kaynak kod devri yapılmaz; müşteriye ait kurumsal metin ve görseller talep halinde eksiksiz teslim edilir.
+2. **Kurumsal Web / PRO (59.000 TL + KDV)**
+   - Teslim Süresi: 3 – 4 Hafta
+   - Kapsam: Sıfırdan kurumsal UI/UX tasarım, çok dilli altyapı (TR/EN/RU), gelişmiş teknik SEO/AEO mimarisi, yönetim paneli.
+   - Mülkiyet Kuralı: Tüm kaynak kodlar, veritabanı yapıları ve içerikler müşteriye eksiksiz devredilir.
+3. **Özel Yazılım & Mimari (149.000 TL'den başlayan + KDV)**
+   - Teslim Süresi: 6 – 8 Hafta (Kapsama göre fazlandırılmış)
+   - Kapsam: B2B bayi/ürün katalog sistemleri, ERP/CRM entegrasyonu, yüksek güvenlikli özel mikroservis veya monolitik web mimarileri.
+   - Mülkiyet Kuralı: Tüm kaynak kodlar, veritabanı ve dokümantasyon müşteriye eksiksiz devredilir.
+
+## Süreklilik ve Bakım Modelleri (İsteğe Bağlı)
+- **EKO Bakım & Sunucu Takibi (2.900 TL / Ay + KDV):** Aylık Cloudflare ve SSL kontrolleri, temel form/bağlantı denetimi, haftalık yedekleme, mesai saatleri içi destek, ayda 1 kez küçük metin/görsel güncellemesi.
+- **PRO Kurumsal SLA & Geliştirme (7.900 TL / Ay + KDV):** 7/24 kesintisiz izleme, günlük yedekleme, aylık Core Web Vitals ve SEO sağlık raporu, öncelikli SLA, ayda 4 saate kadar ek geliştirme ve içerik desteği.
+
+## Bağımsız AI Fizibilite Motoru (nexus)
+- URL: https://vanguardstudio.digital/nexus/
+- İşlev: İşletmelerin proje fikirlerini bütçe, takvim, teknik karmaşıklık ve yatırım geri dönüşü (ROI) açısından objektif olarak puanlayan bağımsız yapay zeka fizibilite aracı.
+
+## Ana Sayfa ve Alt Sayfa Dizinleri
+- Ana Sayfa: https://vanguardstudio.digital/
+- Hakkımızda, Vizyon & Misyon: https://vanguardstudio.digital/kurumsal/hakkimizda/
+- Tüm Çözümler & Bakım Hizmetleri: https://vanguardstudio.digital/cozumler/
+- Hızlı Web / EKO: https://vanguardstudio.digital/cozumler/hizli-web/
+- Kurumsal Web / PRO: https://vanguardstudio.digital/cozumler/kurumsal-web/
+- Özel Yazılım & Mimari: https://vanguardstudio.digital/cozumler/ozel-yazilim/
+- B2B Üretim ve İhracat Çözümleri: https://vanguardstudio.digital/sektorler/uretim-tedarik/
+- Restoran ve Kafe Çözümleri: https://vanguardstudio.digital/sektorler/restoran-kafe/
+- Mimarlık ve Tadilat Çözümleri: https://vanguardstudio.digital/sektorler/mimarlik-tadilat/
+- Çalışmalar & Canlı Demolar: https://vanguardstudio.digital/calismalar/
+- Fiyatlandırma Tablosu: https://vanguardstudio.digital/fiyatlandirma/
+- nexus AI Fizibilite: https://vanguardstudio.digital/nexus/
+- Proje Başvurusu & İletişim: https://vanguardstudio.digital/proje-basvurusu/
+- Sıkça Sorulan Sorular (SSS): https://vanguardstudio.digital/destek/sss/
+- B2B Teknoloji, Siber Güvenlik & AI Blogu: https://vanguardstudio.digital/blog/
+  - B2B Yapay Zekâ Yatırım Geri Dönüşü (ROI) Fizibilite Analizi: https://vanguardstudio.digital/blog/b2b-yapay-zeka-yatirim-roi-fizibilite-simulasyonu/
+  - Sunucusuz (Stateless) ve Zero-DB Mimarisiyle Veri Sızıntısını Sıfırlamak: https://vanguardstudio.digital/blog/stateless-zero-db-veri-minimizasyonu-siber-guvenlik/
+  - Kaynak Kod Mülkiyeti ve B2B Sözleşme Bağımsızlığı: https://vanguardstudio.digital/blog/kaynak-kod-mulkiyeti-b2b-bagimsizlik-sozlesme-mimari/
+  - Antalya - Rusya - Kosova Otonom Rota ve Depo Optimizasyonu: https://vanguardstudio.digital/blog/antalya-rusya-kosova-otonom-lojistik-depo-optimizasyonu/
+

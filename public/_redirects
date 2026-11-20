@@ -1,0 +1,22 @@
+# Redirect legacy /tr/ URLs to modern clean root URLs
+/tr / 301
+/tr/ / 301
+/tr/* /:splat 301
+
+# Legacy / Old Site 301 Permanent Redirects for Google Search de-indexing
+/about /kurumsal/hakkimizda/ 301
+/hakkimizda /kurumsal/hakkimizda/ 301
+/kurumsal /kurumsal/hakkimizda/ 301
+/services /cozumler/ 301
+/hizmetler /cozumler/ 301
+/pricing /fiyatlandirma/ 301
+/fiyatlar /fiyatlandirma/ 301
+/contact /proje-basvurusu/ 301
+/iletisim /proje-basvurusu/ 301
+/basvuru /proje-basvurusu/ 301
+/nexus-ai /nexus/ 301
+/portfolio /calismalar/ 301
+/demos /calismalar/ 301
+
+# SPA fallback for Single Page Application on Cloudflare Pages
+/* /index.html 200

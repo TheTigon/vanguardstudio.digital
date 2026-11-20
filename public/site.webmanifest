@@ -1,0 +1,28 @@
+{
+  "name": "VanGuard Studio Digital | Dijital Çözümler & AI Fizibilite",
+  "short_name": "VanGuard Studio",
+  "description": "B2B işletmeler, ihracatçılar ve kurumsal firmalar için sabit bütçeli web çözümleri, özel yazılım mimarisi ve bağımsız nexus AI fizibilite analizleri.",
+  "start_url": "/tr/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

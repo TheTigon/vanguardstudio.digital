@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="officeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e3a8a" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#officeBg)" />
+  <!-- Modern Acoustic Glass Office Partition -->
+  <rect x="90" y="65" width="620" height="330" rx="12" fill="#1e293b" stroke="#60a5fa" stroke-width="2" />
+  <g stroke="#38bdf8" stroke-opacity="0.5" stroke-width="2">
+    <rect x="120" y="95" width="170" height="270" fill="#0ea5e9" fill-opacity="0.15" />
+    <rect x="305" y="95" width="190" height="270" fill="#0ea5e9" fill-opacity="0.22" />
+    <rect x="510" y="95" width="170" height="270" fill="#0ea5e9" fill-opacity="0.15" />
+  </g>
+  <!-- Conference Table & Linear Ceiling Baffles -->
+  <line x1="150" y1="120" x2="650" y2="120" stroke="#e2e8f0" stroke-width="4" stroke-dasharray="40 16" />
+  <rect x="230" y="280" width="340" height="24" rx="6" fill="#cbd5e1" />
+  <line x1="270" y1="304" x2="255" y2="365" stroke="#94a3b8" stroke-width="5" />
+  <line x1="530" y1="304" x2="545" y2="365" stroke="#94a3b8" stroke-width="5" />
+  <text x="400" y="445" text-anchor="middle" fill="#f8fafc" font-family="sans-serif" font-size="18" font-weight="bold">TEKNOPARK KURUMSAL MERKEZ OFİS UYGULAMASI</text>
+  <text x="400" y="472" text-anchor="middle" fill="#93c5fd" font-family="monospace" font-size="13">450 m² · AKUSTİK TOPLANTI ODALARI &amp; MODÜLER İSTASYONLAR</text>
+</svg>
