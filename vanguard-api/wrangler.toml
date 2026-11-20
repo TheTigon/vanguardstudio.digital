@@ -1,0 +1,6 @@
+name = "vanguard-api"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+
+# Zero-DB: Hiçbir D1 veritabanı bağlantısı yoktur.
+# Cloudflare Dashboard -> Settings -> Variables and Secrets: RESEND_API_KEY
